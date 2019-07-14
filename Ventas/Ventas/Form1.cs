@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Da siempre lo mejor de ti.\nLo que plantes ahora, lo\ncosecharas mas tarde.");
         }
     }
 }
